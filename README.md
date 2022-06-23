@@ -1,6 +1,8 @@
 此為Javascript 練習的Side Project
 
 Forkify網頁
+![image](https://user-images.githubusercontent.com/101940444/175198044-f022a7a8-c78a-41b6-a138-f9ada22f2803.png)
+
 請輸入Pizza查詢需要的菜單
 
 1.實作Javascript MVC 架構操作不同的Javascript
@@ -20,6 +22,7 @@ Forkify網頁
 
 Mapty<br/>
 此程式為練習實作用 Javascript 來操作Object 以及實現物件導向程式設計<br/>
+![image](https://user-images.githubusercontent.com/101940444/175198164-63a988ae-0bc5-4665-b706-33c0bc8f34fb.png)
 
 練習物件導向設計(實作一父類別可以操作： <br/>
 1.抓取地圖套件 <br/>
